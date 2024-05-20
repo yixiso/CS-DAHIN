@@ -6,5 +6,7 @@ python main.py --seed <random seed> --dataset <dataset name> --weight <preferenc
 
 ## Datasets
 This paper uses four datasets of different sizes, and its original data can be found from:
+
 IMDB/ACM/DBLP: https://github.com/Jhy1993/HAN/tree/master/data
+
 Amazon: https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
