@@ -85,7 +85,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--patience",
         type=int,
-        default=100,
+        default=10,
         help="Early stop patience. Default is 100."
     )
     parser.add_argument(
